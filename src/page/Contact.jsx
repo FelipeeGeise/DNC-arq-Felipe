@@ -1,7 +1,7 @@
 import { useContext } from 'react'
 import Banner from "../components/Banner/Banner"
 import ContactForm from "../components/ContactForm/ContactForm"
-import Header from "../components/Header/header"
+import Header from "../components/Header/Header"
 import Footer from "../components/Footer/Footer"
 
 //CONTEXT
